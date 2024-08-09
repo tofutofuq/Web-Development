@@ -4,7 +4,7 @@
 <p align="center">
 <a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 <a href="https://github.com/dylanaraps/neofetch/releases"><img src="[https://img.shields.io/github/release/dylanaraps/neofetch.svg](https://i.pinimg.com/736x/9a/da/83/9ada83a550021dfccc61b6f3370e17f5.jpg)"></a>
-<a href="https://repology.org/metapackage/neofetch"><img src="https://repology.org/badge/tiny-repos/neofetch.svg" alt="Packaging status"></a>
+<a href="https://repology.org/metapackage/neofetch"><img src="[https://repology.org/badge/tiny-repos/neofetch.svg](https://i.pinimg.com/736x/9a/da/83/9ada83a550021dfccc61b6f3370e17f5.jpg)" alt="Packaging status"></a>
 </p>
 
 <img src="https://i.imgur.com/GFmC5Ad.png" alt="neofetch" align="right" height="240px">
@@ -15,7 +15,7 @@ The overall purpose of Neofetch is to be used in screen-shots of your system. Ne
 
 The information by default is displayed alongside your operating system's logo. You can further configure Neofetch to instead use an image, a custom ASCII file, your wallpaper or nothing at all.
 
-<img src="https://i.imgur.com/lUrkQBN.png" alt="neofetch" align="right" height="240px">
+<img src="[https://i.imgur.com/lUrkQBN.png](https://i.pinimg.com/736x/9a/da/83/9ada83a550021dfccc61b6f3370e17f5.jpg)" alt="neofetch" align="right" height="1000px">
 
 You can further configure Neofetch to display exactly what you want it to. Through the use of command-line flags and the configuration file you can change existing information outputs or add your own custom ones.
 
